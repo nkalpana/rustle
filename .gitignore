@@ -1,0 +1,14 @@
+# Rust / Cargo generated files
+target/
+Cargo.lock
+
+# WebAssembly / wasm-pack
+.wasm-pack/
+pkg/
+
+# Node / npm
+node_modules/
+
+# Distribution files
+dist/
+build/
